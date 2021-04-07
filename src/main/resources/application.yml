@@ -1,0 +1,9 @@
+application:
+  version: @project.version@
+
+spring:
+  application:
+    name: thret-blog
+
+server:
+  port: ${PORT:8080}
