@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    gcp:
+      core:
+        enabled: false
+      firestore:
+        enabled: false
+      security:
+        iap:
+          enabled: false
